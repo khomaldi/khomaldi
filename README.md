@@ -1,6 +1,6 @@
 - 👋 hi, i’m @khomaldi. my name is Georgii
 - 👀 i’m interested in backend
-- 🌱 i’m currently learning php, ruby
+- 🐘 using php
 - 📫 khomaldi@hey.com
 
 <!---
