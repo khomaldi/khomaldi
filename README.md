@@ -1,5 +1,5 @@
 - 👋 hi, i’m @khomaldi. my name is Georgii
-- 👀 i’m interested in backend
+- 👀 interested in backend
 - 🐘 using php
 - 📫 khomaldi@hey.com
 
